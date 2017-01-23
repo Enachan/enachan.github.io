@@ -37,3 +37,30 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.post-list {
+  > li {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid $grey-color-light;
+  }
+
+  .last {
+    border-bottom: none;
+  }
+}
+
+.site-footer {
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav .menu-icon {
+    padding-top: 7px;
+    svg {
+      width: 24px;
+    }
+  }
+}
