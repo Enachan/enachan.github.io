@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="/">
     <link rel="alternate" type="application/rss+xml" title="Enachan" href="/feed.xml">
+    {% if page.hljs %}
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/solarized-dark.min.css">
+    {% endif %}
     <style>
       .footer-mid {
         text-align: center;
@@ -92,5 +95,9 @@
         </div>
       </div>
     </footer>
+    {% if page.hljs %}
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script>
+    {% endif %}
   </body>
 </html>

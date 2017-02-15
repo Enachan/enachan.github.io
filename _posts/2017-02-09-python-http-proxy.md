@@ -3,6 +3,7 @@ date: 2017-02-09 18:11:53 +0800
 title: Python设置HTTP代理通过Charles抓包
 layout: post
 permalink: /post/python-and-charles-http-proxy.html
+hljs: true
 ---
 
 平常在开发接口过程中，下断点调试或者直接打印太麻烦，偶尔想抓一下包，Mac下有抓包神器Charles。有两种方式：
