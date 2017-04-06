@@ -1,12 +1,12 @@
 ---
 date: 2017-02-09 18:11:53 +0800
-title: Python设置HTTP代理通过Charles抓包
+title: Python 设置 HTTP 代理通过 Charles 抓包
 layout: post
 permalink: /post/python-and-charles-http-proxy.html
 hljs: true
 ---
 
-平常在开发接口过程中，下断点调试或者直接打印太麻烦，偶尔想抓一下包，Mac下有抓包神器Charles。有两种方式：
+平常在开发接口过程中，下断点调试或者直接打印太麻烦，偶尔想抓一下包，Mac 下有抓包神器 Charles。有两种方式：
 
 * **设置全局代理**，Proxy -> Mac OS X Proxy<br>
     由于Mac上使用了Surge，已经设置了全局代理，Charles全局代理会影响上网
@@ -35,9 +35,8 @@ def test():
 
 ```
 
-#### 参考
-
+#### [参考]
 * [Charles Documentation](https://www.charlesproxy.com/documentation/)
-* [Charles从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
+* [Charles 从入门到精通](http://blog.devtang.com/2015/11/14/charles-introduction/)
 
 

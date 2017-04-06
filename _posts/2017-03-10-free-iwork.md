@@ -11,11 +11,12 @@ permalink: /post/get-free-iwork.html
 
 也只有 Apple 自家的应用可以这样，不通过 App Store 安装却可以在 App Store 更新，而且 09 年的应用在最新的系统上还可以安装。
 
-[下载中心](https://support.apple.com/downloads/iwork)<br>
-[dmg文件下载](http://appldnld.apple.com/iWork/Trial/2Z693-6888.20090326.F6B53/iWork09Trial.dmg)<br>
-[Mac 基础知识：通过 Boot Camp 在 Mac 上使用 Windows - Apple 支持](https://support.apple.com/zh-cn/HT201258)<br>
-[Pages、Numbers 和 Keynote 更新计划 - Apple (中国)](http://www.apple.com/cn/creativity-apps/mac/up-to-date/)<br>
-[Mac 基础知识：通过 Boot Camp 在 Mac 上使用 Windows - Apple 支持](https://support.apple.com/zh-cn/HT201258)<br>
-[Mac 的启动组合键 - Apple 支持](https://support.apple.com/zh-cn/HT201255)<br>
-[Set up a Windows partition on your Mac](https://support.apple.com/en-us/HT204009)<br>
-[Boot Camp for Mac: Remove Windows from your Mac](https://support.apple.com/kb/PH25916?viewlocale=en_US&locale=en_US)
+#### [参考]
+* [下载中心](https://support.apple.com/downloads/iwork)<br>
+* [dmg文件下载](http://appldnld.apple.com/iWork/Trial/2Z693-6888.20090326.F6B53/iWork09Trial.dmg)<br>
+* [Mac 基础知识：通过 Boot Camp 在 Mac 上使用 Windows - Apple 支持](https://support.apple.com/zh-cn/HT201258)<br>
+* [Pages、Numbers 和 Keynote 更新计划 - Apple (中国)](http://www.apple.com/cn/creativity-apps/mac/up-to-date/)<br>
+* [Mac 基础知识：通过 Boot Camp 在 Mac 上使用 Windows - Apple 支持](https://support.apple.com/zh-cn/HT201258)<br>
+* [Mac 的启动组合键 - Apple 支持](https://support.apple.com/zh-cn/HT201255)<br>
+* [Set up a Windows partition on your Mac](https://support.apple.com/en-us/HT204009)<br>
+* [Boot Camp for Mac: Remove Windows from your Mac](https://support.apple.com/kb/PH25916?viewlocale=en_US&locale=en_US)
